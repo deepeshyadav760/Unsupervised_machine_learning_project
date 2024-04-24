@@ -18,7 +18,7 @@ Execute the code cells to perform clustering on the village dataset.
 Refer to the comments in the code for detailed explanations of each step.
 
 **Dependencies**
-Python 3.x
+Python 3.12.3
 Jupyter Notebook
 
 **Author**
